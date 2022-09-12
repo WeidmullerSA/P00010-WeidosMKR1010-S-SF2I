@@ -15,6 +15,7 @@ Developed by [Daniela Zaffalon, Weidmüller SA.](https://github.com/danielazaffa
   - [Weidos-MKR1010-A1](https://www.weidmuller.es/es/ventas/application_iot_centre/weidos_devices/index.jsp)
 
 ### Software
+- software required:
   - [Ethernet](https://github.com/arduino-libraries/Ethernet)
   
 ## Usage
